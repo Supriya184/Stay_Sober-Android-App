@@ -52,7 +52,8 @@ Avoidance
 In this module users can get their preferred audios and videos list for avoiding themselves from the relapse. In this module if the user clicks on the “audio” button then the user gets a list of audios in the selected language. If the user clicks on the “video” button then the user gets a list of videos.
 
 
-Glipmse of Application
+Glipmse of 
+
 ![image](https://user-images.githubusercontent.com/99385895/205363721-aa4bb7e6-88ec-41d6-94ae-b01375e2b8ce.png)
 
 ![image](https://user-images.githubusercontent.com/99385895/205363772-013bf88e-30e4-4989-8aee-e9ff1cef711d.png)
